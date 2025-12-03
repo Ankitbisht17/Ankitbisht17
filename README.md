@@ -13,8 +13,9 @@
 <div align="center">
 
 # 💫 About Me:
-I'm **Ankit Bisht**, a BCA student from **Graphic Era University, Dehradun**.<br>
-I am passionate about **Machine Learning, Web Development & Software Engineering**.<br>
+I'm **Ankit Bisht**, a **BCA graduate** from **Graphic Era University, Dehradun**.<br>
+I specialize in **Machine Learning, Web Development & Software Engineering**.<br>
+*Driven to build scalable solutions and intelligent systems that solve real-world problems, with a strong focus on performance, reliability, and continuous learning.*<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bisht-a666a7250/)
