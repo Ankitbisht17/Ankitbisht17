@@ -39,8 +39,14 @@ I am passionate about **Machine Learning, Web Development & Software Engineering
 
 ---
 
-# 🚀 GitHub Commits:
-![snake gif](https://github.com/Ankitbisht17/Ankitbisht17/blob/output/github-snake-dark.svg)
+<h2 align="center">🚀 Github Commits</h2>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-snake-dark.svg" 
+    alt="GitHub Snake Animation"
+  />
+</p>
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
