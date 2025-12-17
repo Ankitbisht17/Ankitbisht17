@@ -65,7 +65,6 @@
   <br><br>
 
   ---
-
   <h2>📊 GitHub Analytics</h2>
 
   <p>
