@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=38&duration=4000&pause=1000&color=5467FF&background=00000000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I+am+Ankit+Bisht." alt="Typing SVG" />
   </a>
 </h1>
-
 <div align="center">
 
   <h3>💫 About Me</h3>
