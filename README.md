@@ -1,121 +1,300 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=40&duration=4000&pause=1000&color=5467FF&background=00000000&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Ankit+Bisht+👋;ML+Engineer+%26+Web+Developer;Building+intelligent+systems." alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitbisht17&label=Profile+views&color=5467FF&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/ankit-bisht-a666a7250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ankitbisht1232@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ankit%20Bisht&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Web%20Developer&descAlignY=58&descAlign=50" width="100%" />
 
----
+</div>
 
-## 💫 About Me
+<div align="center">
 
-I'm a **BCA graduate** from India, specialising in **Machine Learning & Web Engineering**.
-I love building scalable systems and intelligent applications that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+matter;ML+%2B+Computer+Vision+%2B+Web+Engineering;From+Uttarakhand%2C+shipping+real+solutions;Open+to+collaborate+%E2%80%94+let%27s+build+together" alt="Typing Animation" />
 
-- 🔭 Currently building: **[Your current project — e.g. a real-time ML inference API]**
-- 🌱 Currently learning: **[e.g. LLM fine-tuning with LoRA / Next.js App Router]**
-- 🤝 Open to collaborating on: **ML projects, open-source, web apps**
-- 💬 Ask me about: **Python, PyTorch, scikit-learn, FastAPI, React**
-- ⚡ Fun fact: I hide mini-games in my GitHub profile 🎮
+</div>
+
+<br />
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/ankit-bisht-a666a7250/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-764ba2?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Ankitbisht17)
+[![Email](https://img.shields.io/badge/Email-Contact-667eea?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ankitbisht1232@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ankitbisht17&color=667eea&style=flat-square&label=Profile+Views)](https://github.com/Ankitbisht17)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### ABOUT
 
-| Project | Tech Stack | What it does |
-|---|---|---|
-| [Project Name](https://github.com/Ankitbisht17) | PyTorch · FastAPI · Docker | One-line outcome: e.g. classifies X with 95% accuracy |
-| [Project Name](https://github.com/Ankitbisht17) | React · Node.js · MongoDB | One-line outcome: e.g. real-time dashboard for Y |
-| [Project Name](https://github.com/Ankitbisht17) | Scikit-learn · Streamlit | One-line outcome: e.g. predicts Z with 88% F1 score |
+I'm a **BCA graduate** from Uttarakhand, India, specialising in **Machine Learning & Web Engineering**. I build scalable, production-ready systems that bridge intelligent ML pipelines with clean web interfaces — solutions that work in the real world, not just notebooks.
 
-> 📌 **Tip:** Pin these repos on your GitHub profile so visitors see them immediately.
+My focus is on practical ML deployment, computer vision applications, and full-stack web development. I believe the best software is invisible — it simply works, accessibly and reliably, for real people.
 
----
+**Core Competencies:** Python • JavaScript • PyTorch • TensorFlow • scikit-learn • OpenCV • React • FastAPI • MongoDB • AWS
 
-## 💻 Technical Arsenal
+<br />
 
-#### 🧠 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-#### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br />
 
-#### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### CURRENT WORK
 
-#### 🖥️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 ML Inference API</h4>
+      <p>Production-ready machine learning inference pipeline with real-time predictions and model versioning. Built for scale with async processing and low-latency responses.</p>
+      <p><strong>Stack:</strong> PyTorch • FastAPI • Docker • AWS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👁️ Computer Vision Pipeline</h4>
+      <p>End-to-end computer vision system for image classification and object detection. Optimised for edge deployment with quantised models running at near real-time speeds.</p>
+      <p><strong>Stack:</strong> OpenCV • TensorFlow • Python • Flask</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analytics Dashboard</h4>
+      <p>Interactive web dashboard for visualising ML model outputs and dataset statistics. Designed for non-technical stakeholders with intuitive charts and drill-down views.</p>
+      <p><strong>Stack:</strong> React • Plotly • FastAPI • MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 NLP Text Classifier</h4>
+      <p>Multi-class text classification system fine-tuned on domain-specific corpora. Includes a clean web UI for inference and an exportable REST API for integration.</p>
+      <p><strong>Stack:</strong> Transformers • scikit-learn • Flask • Heroku</p>
+    </td>
+  </tr>
+</table>
 
----
+> 📌 Update these with your real projects and link each title to its GitHub repo.
 
-## 📊 GitHub Analytics
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitbisht17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="155" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankitbisht17&theme=radical&hide_border=true" height="155" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitbisht17&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitbisht17&theme=radical&hide_border=true&area=true" />
-</p>
+### TECHNOLOGY STACK
 
----
+<div align="center">
 
-## 🚀 Game 2 — Space Shooter
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+  </tr>
+</table>
 
-> Defend the galaxy! **← →** to move · **Space** to fire · 3 lives · dodge asteroids!
+</div>
 
-<p align="center">
-  <a href="https://ankitbisht17.github.io/space-shooter/" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Play%20Space%20Shooter-E24B4A?style=for-the-badge&logoColor=white" alt="Play Space Shooter" />
-  </a>
-</p>
+<br />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-## 🏆 Achievements
+<br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitbisht17&theme=radical&no-frame=true&column=4&margin-w=8" />
-</p>
+### METRICS
 
----
+<div align="center">
 
-<p align="center">
-  <i>Thanks for visiting — drop a ⭐ on something you like!</i><br>
-  <sub>Made with ❤️ by Ankit Bisht · Uttarakhand, India</sub>
-</p>
+<a href="https://github.com/Ankitbisht17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ankitbisht17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankitbisht17&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitbisht17&theme=algolia&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitbisht17&theme=github_dark&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<br />
+
+### DEVELOPMENT FOCUS
+
+```
+├── Production ML Deployment
+│   ├── Model optimisation & quantisation
+│   ├── REST API design for ML inference
+│   └── Real-time prediction pipelines
+│
+├── Computer Vision Engineering
+│   ├── Image classification & object detection
+│   ├── Edge deployment with lightweight models
+│   └── OpenCV preprocessing pipelines
+│
+└── Full Stack Web Engineering
+    ├── React frontends with clean UX
+    ├── FastAPI / Flask backends
+    └── MongoDB & MySQL data layers
+```
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<br />
+
+### APPROACH
+
+My work is guided by three principles:
+
+**Production First** — A model that only runs in a notebook isn't useful. I focus on end-to-end pipelines: from data and training through to deployed APIs and interfaces real users can interact with.
+
+**Clarity Over Complexity** — The best ML system is one that's understandable, maintainable, and debuggable. I favour clean architecture and well-documented code over clever hacks.
+
+**Human-Centred** — Technology should solve real problems for real people. Whether it's an analytics dashboard or a computer vision tool, the end user's experience drives every design decision.
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<br />
+
+### 🎮 GAMES
+
+> Because every great dev profile needs a game (or two).
+
+<div align="center">
+
+<a href="https://ankitbisht17.github.io/snake-game/">
+  <img src="https://img.shields.io/badge/▶%20Play%20Snake-667eea?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;
+<a href="https://ankitbisht17.github.io/space-shooter/">
+  <img src="https://img.shields.io/badge/▶%20Play%20Space%20Shooter-764ba2?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<br />
+
+### CONNECT
+
+<div align="center">
+
+**Interested in collaborating on ML, computer vision, or full-stack projects?**
+
+<br />
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ankitbisht17">
+        <img src="https://img.shields.io/badge/GitHub-View_Repositories-764ba2?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ankit-bisht-a666a7250/">
+        <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-667eea?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ankitbisht1232@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Direct_Contact-764ba2?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
+
+</div>
