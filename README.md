@@ -177,17 +177,6 @@ My focus is on practical ML deployment, computer vision applications, and full-s
 </div>
 
 <br />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankitbisht17/Ankitbisht17/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
@@ -235,27 +224,6 @@ My work is guided by three principles:
 
 <br />
 
-### 🎮 GAMES
-
-> Because every great dev profile needs a game (or two).
-
-<div align="center">
-
-<a href="https://ankitbisht17.github.io/snake-game/">
-  <img src="https://img.shields.io/badge/▶%20Play%20Snake-667eea?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
-</a>
-&nbsp;
-<a href="https://ankitbisht17.github.io/space-shooter/">
-  <img src="https://img.shields.io/badge/▶%20Play%20Space%20Shooter-764ba2?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
-</a>
-
-</div>
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-
-<br />
 
 ### CONNECT
 
